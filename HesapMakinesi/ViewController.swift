@@ -9,6 +9,7 @@ import UIKit
 
 var sonucEkranİlkSayi : Double = 0
 var sayi1 : Int = 0
+var sayi3 : Int = 0
 var sayi2 : Int = 0
 var toplam : Int = 0
 var bolumToplam : Double = 0

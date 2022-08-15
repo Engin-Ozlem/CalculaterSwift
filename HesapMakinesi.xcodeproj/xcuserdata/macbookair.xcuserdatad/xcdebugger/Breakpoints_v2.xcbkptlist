@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0322FAAB-423E-4857-9F97-BA63DA5B9F6D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14ADE18D-C11D-47C7-AC00-89D90EAAC0AF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HesapMakinesi/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "sonucButon(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
